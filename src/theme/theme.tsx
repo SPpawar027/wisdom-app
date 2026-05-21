@@ -1,0 +1,16 @@
+export const C = {
+    primary: '#00647c',
+    primaryContainer: '#72d9fd',
+    primaryDim: '#00576c',
+    surface: '#f5f6f8',
+    surfaceContainerLow: '#eff1f3',
+    surfaceContainerLowest: '#ffffff',
+    surfaceContainerHighest: '#dadde0',
+    onSurface: '#2c2f31',
+    onSurfaceVariant: '#595c5e',
+    outlineVariant: '#abadaf',
+    outline: '#757779',
+    secondary: '#00666e',
+    secondaryContainer: '#a1eff8',
+    error: '#b31b25',
+};
